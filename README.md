@@ -17,6 +17,11 @@ Social Media Block Lists <br>
   Snapchat:               https://github.com/falaksherkasuri/DNSBL/raw/refs/heads/main/Social-Snapchat <br>
   Twitch:                 https://github.com/falaksherkasuri/DNSBL/raw/refs/heads/main/Social-Twitch <br>
   Dating:                 https://github.com/falaksherkasuri/DNSBL/raw/refs/heads/main/Social-Dating <br>
+<br>
+------------------------------------------ <br>
+Porn Sites <br>
+------------------------------------------ <br>
+  https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
 
 
 
